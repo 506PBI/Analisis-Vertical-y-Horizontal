@@ -3,7 +3,8 @@ Materiales de la charla impartida en la Comunidad: **Costa Rica Power BI** el d�
 
 La sesión fue impartida por nuestro amigo **Oscar Pérez** del hermano país de Nicaragua quien es actualmente es MVP
 #**Sesión:** ¿Cómo Pasar de Estados Financieros de Excel a Power BI?
->Automatizar los Estados Financieros es el sueño de todo contador, administrador o financiero y gracias a Power BI lo podemos lograr en pocos minutos. 
+
+>Objetivo de la sesión: Automatizar los Estados Financieros es el sueño de todo contador, administrador o financiero y gracias a Power BI lo podemos lograr en pocos minutos. 
 
 El objetivo de este grupo es fomentar el aprendizaje y brindar recursos en español.
 
