@@ -12,3 +12,4 @@ Sesión:
 El objetivo de este grupo es fomentar el aprendizaje y brindar recursos en español.
 Estamos dirigidos a personas apasionadas de la analítica de datos, tanto usuarios como desarrolladores, que deseen aprender o fortalecer sus habilidades en la plataforma de datos de Microsoft.
 
+# [ver la charla en youtube](https://youtu.be/TmmfN7FoZlU)
