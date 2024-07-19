@@ -13,3 +13,4 @@ El objetivo de este grupo es fomentar el aprendizaje y brindar recursos en espa√
 Estamos dirigidos a personas apasionadas de la anal√≠tica de datos, tanto usuarios como desarrolladores, que deseen aprender o fortalecer sus habilidades en la plataforma de datos de Microsoft.
 
 # [ver la charla en youtube](https://youtu.be/TmmfN7FoZlU)
+## [Comunidad: Costa Rica Power BI ](https://community.fabric.microsoft.com/t5/Costa-Rica-Power-BI/gh-p/CostaRicaPowerBI)
